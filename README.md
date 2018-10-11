@@ -3,10 +3,11 @@
 
 
 	In order to work you must have both sylvia and termcolor installed.
-	Both can be installed via pip but the files can be found below.
+	Both can be installed via pip but the sources can be found below.
 
-[**sylvia:**](https://github.com/bgutter/sylvia)
+
+[**sylvia**](https://github.com/bgutter/sylvia)
   
-[**termcolor:**](https://pypi.org/project/termcolor/#files)
+[**termcolor**](https://pypi.org/project/termcolor/#files)
   
   
